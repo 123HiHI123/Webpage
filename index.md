@@ -1,3 +1,0 @@
-<head>
-<h1>Welcome to my wesbite enjoy the games</h1>
-</head>
